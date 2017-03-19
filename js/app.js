@@ -1,4 +1,3 @@
-//problem: no user interaction
 
 var color = $(".selected").css("background-color");
 var $canvas = $("canvas");
